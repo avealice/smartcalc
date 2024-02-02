@@ -13,6 +13,7 @@ __Arithmetic Operators__
 * Modulus
 * Unary plus
 * Unary minus
+  
 __Functions__
 * Cosine
 * Sine
@@ -23,6 +24,7 @@ __Functions__
 * Square root
 * Natural logarithm
 * Decimal logarithm
+  
 __Installation__
 To install the calculator, execute the command make install.
 
