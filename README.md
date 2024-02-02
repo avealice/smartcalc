@@ -1,7 +1,8 @@
 # Smartcalc
 
 __About the Program__
-My SmartCalc_v2 is a scientific calculator featuring additional capabilities for graphing functions (f(x)) and assigning a variable (x) in expressions. It also incorporates a banking calculator for calculating both annuity and differentiated payments.
+
+Smartcalc is a scientific calculator featuring additional capabilities for graphing functions (f(x)) and assigning a variable (x) in expressions. It also incorporates a banking calculator for calculating both annuity and differentiated payments.
 
 __Arithmetic Operators__
 * Parentheses
